@@ -29,7 +29,7 @@ public class Principal {
 			System.out.println("Error! Debe ingresar un valor numerico." );
 		}
 		System.out.println("FIN DEL PROGRAMA.");
-		entrada.close();
+	
 	}
 }
 		
