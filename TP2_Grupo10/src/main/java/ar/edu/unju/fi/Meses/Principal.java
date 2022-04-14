@@ -9,7 +9,7 @@ public class Principal {
 		Scanner entrada;
 		int numero;
 		boolean band = true;
-				System.out.println("DETERMINAR SI UN NUMERO INGRESADO PERTENECE A UN MES DEL AÑO.");
+		System.out.println("DETERMINAR SI UN NUMERO INGRESADO PERTENECE A UN MES DEL AÑO.");
 		while (band == true) {
 
 			try {
