@@ -28,8 +28,8 @@ public class Principal {
 		} catch (InputMismatchException e) {
 			System.out.println("Error! Debe ingresar un valor numerico." );
 		}
-		
 		System.out.println("FIN DEL PROGRAMA.");
+		entrada.close();
 	}
 }
 		
