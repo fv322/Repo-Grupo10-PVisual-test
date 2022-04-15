@@ -24,7 +24,6 @@ public class Principal {
 		} catch (InputMismatchException e) {
 			System.out.println("Error! Debe ingresar un valor numerico");
 		}	
-		System.out.println("el tiempo de caida es: "+tiempo+" seg");	
 		entrada.close();
 	}
 
