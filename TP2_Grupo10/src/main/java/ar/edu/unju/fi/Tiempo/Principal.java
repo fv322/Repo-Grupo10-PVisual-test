@@ -24,6 +24,7 @@ public class Principal {
 		} catch (InputMismatchException e) {
 			System.out.println("Error! Debe ingresar un valor numerico");
 		}	
+		//System.out.println("Error! Debe ingresar un valor numerico");
 		entrada.close();
 	}
 
